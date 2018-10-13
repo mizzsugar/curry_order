@@ -1,0 +1,3 @@
+[run]
+source = curry_order
+omit = curry_order/test*
